@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&background=00000000&center=true&width=720&height=48&lines=IoT+Student;Full-Stack+Developer" alt="typing" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&background=00000000&center=true&width=720&height=48&lines=Full-Stack+Developer;Goated+Human" alt="typing" />
 </p>
 
 ## **The Protagonist**
