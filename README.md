@@ -63,6 +63,7 @@
 - **BanaScrape** — A fact-checker Chrome extension that analyzes any text and fact-checks it in real-time.
 - **AI Life-Logger & Data Organizer** — A mobile application where users speak or type an unstructured brain dump of their day, and an AI backend automatically parses, categorizes, and visually arranges the data into logs and actionable insights.
 - **Gemini Grouper** — Chrome Extension that organizes chat histories into custom groups.
+- **[FreeGunSimulator.com](https://freegunsimulator.com/)** — A fast, high-fidelity weapon simulator that runs completely in the browser with zero downloads or sign-ups, featuring realistic recoil, haptic feedback, and high-fidelity audio.
 
 ---
 
