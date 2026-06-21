@@ -1,6 +1,4 @@
-<p align="center">
-	<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJscHd2bXZqNjVzYTg4OXhhaG0wYm93bmFtcmc1OGwzNnB5Zmp1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UVnVvSYgiIsAo/giphy.gif" alt="Ichigo Header" width="220" />
-</p>
+
 
 <p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&background=00000000&center=true&width=720&height=48&lines=Full-Stack+Developer;Goated+Human" alt="typing" />
